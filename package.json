@@ -1,0 +1,19 @@
+{
+  "name": "workspacecw2",
+  "version": "1.0.0",
+  "description": "a website contaiining cw2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophermacfarlane87/WebAppsCW2.git"
+  },
+  "author": "Christopher Macfarlane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophermacfarlane87/WebAppsCW2/issues"
+  },
+  "homepage": "https://github.com/christophermacfarlane87/WebAppsCW2#readme"
+}
